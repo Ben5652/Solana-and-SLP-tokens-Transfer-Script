@@ -1,10 +1,10 @@
-# Solana Transfer Script
+# Solana and SLP tokens Transfer Script
 
 This script automates the process of transferring SOL and SPL tokens using the Solana blockchain. It is designed for efficient transactions and includes adjustable compute unit fees and limits.
 
 ## Why I Created This Script
 
-I had four Solana wallets that were compromised due to a scam, resulting in the loss of all my funds. These wallets were my main wallets for trading, and I was eligible to claim JUP and Pengu tokens. When I tried to claim normally from Jupiter, I was not fast enough to transfer my 1000 JUP to another safe wallet—the scammer was faster. 
+I had four Solana wallets that were compromised due to a scam, resulting in the loss of all my funds. These wallets were my main wallets for trading, and I was eligible to claim JUP and Pengu tokens. When I tried to claim normally from Jupiter, I was not fast enough to transfer my 1000 JUP to another safe walletâ€”the scammer was faster. 
 
 To prevent this from happening again, I created this script to make transactions faster and more efficient, ensuring that I could securely transfer funds before any unauthorized access could take place.
 
