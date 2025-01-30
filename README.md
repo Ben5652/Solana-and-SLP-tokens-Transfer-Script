@@ -47,8 +47,8 @@ Follow these detailed steps to install and run the script:
 
 Open your terminal and run:
 ```bash
-https://github.com/Ben5652/Solana-and-SLP-tokens-Transfer-Script.git
-cd solana-transfer-script
+git clone https://github.com/Ben5652/Solana-and-SLP-tokens-Transfer-Script.git
+cd Solana-and-SLP-tokens-Transfer-Script
 ```
 
 ### Step 2: Install Dependencies
